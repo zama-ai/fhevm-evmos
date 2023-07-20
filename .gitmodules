@@ -1,0 +1,12 @@
+[submodule "go-ethereum"]
+	path = go-ethereum
+	url = https://github.com/zama-ai/go-ethereum
+[submodule "evmos"]
+	path = evmos
+	url = https://github.com/zama-ai/evmos
+[submodule "ethermint"]
+	path = ethermint
+	url = https://github.com/zama-ai/ethermint
+[submodule "fhevm-requires-db"]
+	path = fhevm-requires-db
+	url = https://github.com/zama-ai/fhevm-requires-db
