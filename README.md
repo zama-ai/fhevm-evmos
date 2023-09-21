@@ -3,4 +3,4 @@ This repository links to resources needed to run the fhEVM reference implementat
 
 We use Evmos and Ethermint as a consensus layer on top of which the reference fhEVM implementation is executed. 
 
-Note that this is meant to be used for research purposes only.
+Note that this version is still in beta.
